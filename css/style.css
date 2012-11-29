@@ -1,0 +1,113 @@
+body {
+	padding: 3em 0em;
+	background: #005DAA;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	margin-top: 10px;
+}
+a, a:active, a:visited {
+  color: #bdd3e8;
+}
+a:hover {
+	text-shadow: none;
+}
+#container {
+	background: #005DAA url(../images/fuheader.png) top center no-repeat;
+	padding-top: 198px;
+}
+header {
+	text-align: center;
+	background-color: #fff;
+	padding: 1em 0 1em 0;
+	color: #c0c0c0;
+}
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #005DAA;
+}
+h3 {
+	color: #fff;
+}
+header p {
+	font-size: 20px;
+	color: #0d0d0d;
+}
+#main {
+	font-size: 40px;
+	width: 40em;
+	margin: 1em auto 0 auto;
+	padding: 1em 0 0 0;
+}
+#main h2 {
+	font-size: 20px;
+	color: #fff;
+	text-shadow: #0a375e 1px 1px 1px;
+	margin: 0 0 0.5em;
+	font-weight: normal;
+}
+#main {
+	font-size: 14px;
+	color: #fff;
+	text-shadow: #0a375e 1px 1px 1px;
+}
+
+#mc_embed_signup {
+	margin: 1em auto 0 auto;
+	padding: 1em 0 0 0;
+}
+#mc_embed_signup form {
+}
+#mc_embed_signup label {
+	color: #fff;
+	text-shadow: #0a375e 1px 1px 1px;
+	display: none;
+}
+.mc-field-group {
+	float: left;
+}
+#mc-embedded-subscribe {
+	width: 10em;
+	padding: 0.5em 0;
+	background: #1b2323;
+	color: #fff;
+	border: none;
+	font-size: 18px;
+}
+.email {
+	width: 19em;
+	float: left;
+	border: none;
+	padding: 0.5em;
+	font-size: 18px;
+}
+#mc_embed_close {
+	display: none;
+}
+#mce-responses {
+	padding: 0 1em 0 1em;
+	color: #fff;
+}
+.mce_inline_error {
+	color: red;
+}
+div.mce_inline_error {
+	padding: 0.5em;
+	color: #fff;
+}
+footer {
+	font-family: Arial, Helvetica, sans-serif;
+	clear: both;
+	padding-top: 2em;
+	width: 40em;
+	margin: 0 auto;
+	color: #3a8bd0;
+	font-weight: normal;
+}
+footer .podio {
+	margin-top: 1em;
+	font-size: 1em;
+}
+p.divide {
+	margin: 1em 0;
+}
